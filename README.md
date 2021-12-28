@@ -1,6 +1,4 @@
-# Gradient Text
+# Gradient Text Animation
 
-A gradient is a progression of colors with a starting and stopping point. 
-
-A linear gradient starts with one color (like a red) and gradually transitions in a straight line to another color (like a blue). Think about sunsets as the best example of a linear gradient and how each color progresses seamlessly into the next.
+Gradients are typically one color that fades into another, but CSS allows you to control every aspect of how that happens, from the direction and the shape to the colors and how they transition from one to another.
 
